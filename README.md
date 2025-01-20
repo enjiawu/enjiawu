@@ -20,7 +20,7 @@
 - 🌱 **IT student** at Ngee Ann Polytechnic, focused on solving real-world problems in technology  
 - 💡 **Aspiring software engineer** eager to learn and explore new technologies and frameworks  
 - 🌍 **Motivated to contribute** to the tech industry through innovative solutions  
-- 🔍 Learn more about me at **[wuenjia.com](wuenjia.com)**
+- 🔍 Learn more about me at **[wuenjia.com](https://wuenjia.com)**
 - ✉️ Contact me at **contact@wuenjia.com**
 
 ###
